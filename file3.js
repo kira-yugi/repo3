@@ -1,5 +1,3 @@
-// Sample JavaScript code 
-
-function evaluateModel(model, testData) {
-    // Your evaluation code here
-}.
+// Machine Learning Model Configuration
+// This is a sample content for file3.js
+// Configuration settings here.

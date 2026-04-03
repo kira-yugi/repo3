@@ -1,5 +1,3 @@
-# Sample Python code 
-
-def preprocess_data(data):
-    # Your preprocessing code here
-    return processed_data
+# Machine Learning Model Implementation
+# This is a sample content for file2.py
+# Import libraries and define functions.
